@@ -26,7 +26,7 @@ modules:
           - type: file
             path: GDLauncher-linux-setup
             url: https://github.com/gorilla-devs/GDLauncher/releases/latest/download/GDLauncher-linux-setup.AppImage
-            sha256: eb4e106ffda752fad3483334ad608f51cc3c97cf6f1d699a3e46054bfaec4d7a
+            sha256: 9dde313eaa70772f60dfa3b9376eb18930ab2645e96cd68bf71de4f4c47f93eb
           - type: file
             path: io.gdevs.GDLauncher.desktop
           - type: file
