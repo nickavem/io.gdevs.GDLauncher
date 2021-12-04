@@ -50,6 +50,9 @@
       This is an unofficial package. Issues with it should not be reported to GDLauncher upstream!
     </p>
     <p>
+      Sometimes the provided upstream java version can be behind the latest release. To use the flatpak java version: Simply right click on the instance you wish to use Java for > Click "Manage" > Enable "Custom Java Path" > And map the path to /app/jre/bin/java
+    </p>
+    <p>
       Main Features
     </p>
     <p>
